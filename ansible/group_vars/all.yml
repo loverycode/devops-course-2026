@@ -1,0 +1,5 @@
+app_image: "ghcr.io/loverycode/devops-ci-app"
+app_tag: "c1c5ffdb03cfcd423bf2d3211cb5571a7c5f4ee5"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
